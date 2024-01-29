@@ -1,5 +1,5 @@
 
-<img width="332" alt="diskspace" src="https://github.com/B7-9414/diskspace-app/assets/40012781/0f169894-8b2c-4625-abb4-dc3e412b3621">
+<img width="250" alt="diskspace" src="https://github.com/B7-9414/diskspace-app/assets/40012781/0f169894-8b2c-4625-abb4-dc3e412b3621">
 
 SpacesDisk
 SpacesDisk is an Android application designed to help users manage and fill up disk space on their devices. With SpacesDisk, users can simulate filling up their device's storage to understand space utilization better.
